@@ -1,0 +1,5 @@
+,CustomerID,First_Name,Last_Name,Phone_Number,Address,Paying Customer,Do_Not_Contact
+1,1002,Abed,Nadir,1236439775,93 West Main Street,No,Yes
+3,1004,Dwight,Schrute,1235432345,"980 Paper Avenue, Pennsylvania, 18503",Yes,Yes
+5,1006,Ron,Swanson,3047622467,768 City Parkway,Yes,Yes
+18,1019,Creed,Braton,,N/a,N/a,Yes
